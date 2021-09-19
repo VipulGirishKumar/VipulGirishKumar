@@ -5,7 +5,7 @@ I'm a second-year **Computer Science and Business Administration student** at th
 - 💻 I am currently working on my personal website and a Facebook Messenger Bot.
 - 🤹 My Skills: Python, C, C++, SQL, Bash, Swift, JavaScript, HTML, CSS, SASS, R, Java, Scala, Racket, Git, MySQL, LaTeX
 - 😄 Pronouns: he/him
-- 💬 Contact me at vgirishk@uwaterloo.ca! 😁
+- 💬 Contact me at [vgirishk@uwaterloo.ca](mailto:pvalunjk@uwaterloo.ca)! 😁
 
 ![Vipul's Github Stats](https://github-readme-stats.vercel.app/api?username=VipulGirishKumar&title_color=ff6961&icon_color=ffdb58&bg_color=1e3d59&text_color=f5f0e1&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula)
 
